@@ -6,7 +6,7 @@ A fully playable chess game written from scratch in **Java + Swing**.
 
 This was my **first project ever** — where I learnt to code.
 
-I've always liked to *go big first*. Instead of starting with little exercises, I pick something I have a genuine interest about so I'd have the motivation to push through: I really like chess, so I decided I was going to *build* chess as my first project, that easy. That is what got me through when I realized that it wasn't as easy as I thought, I had almost zero experience coding, so it was a real challengue.
+I've always liked to *go big first*. Instead of starting with little exercises, I pick something I have a genuine interest about so that I'll have the motivation to push through: I really like chess, so I decided I was going to *build* chess as my first project, that easy. That is what got me through when I realized that it wasn't as easy as I thought, I had almost zero experience coding, so it was a real challengue.
 
 And it got hard a lot. I built this in **2021, AI wasn´t a thing yet**, so every problem was solved the old way: reading, searching, trial and error, and a lot of stubbornness. Castling, en passant, pin detection, promotion, checkmate vs. stalemate — every rule was a small research project of its own. I put a *lot* of work into it. Also want to mention the YouTube channel Software Architecture & Design and its playlist Java Chess Engine Tutorial, although incomplete (and bunch of bugs), it really laid the base and tought me the basics of chess programming, without it I don´t know if I would have been able.
 
