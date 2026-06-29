@@ -46,7 +46,7 @@ com.chess
 
 The design leans heavily on **abstract classes and polymorphism** so the rest of the code can treat pieces, tiles, moves, and players uniformly without caring about the specific kind.
 
-### Immutability and Builders ⭐
+### Immutability and Builders
 
 **The `Board` is immutable.** Once a `Board` object exists, it never changes. All of its fields are `final`, the tile list is wrapped in `Collections.unmodifiableList(...)`, and the piece lists are unmodifiable too. There is no `setPiece` on a live board.
 
